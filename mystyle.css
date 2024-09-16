@@ -1,0 +1,49 @@
+.numeric{
+    text-align:center;
+    background-color: rgb(189, 183, 183);
+    color: blue;
+    padding: 20px;
+    width: 20%;
+    border: none;
+    border-radius: 50%;
+    
+}
+.numeric:hover{
+    background-color: white;
+    color: blue;
+}
+.card:hover{
+    background-color: blue;
+    color:  white;
+}
+.h5{
+    color: rgb(189, 18, 18);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(189, 18, 18);
+}
+.btn{
+    background-color:rgb(189, 18, 18) ;
+    padding: 10px;
+    border-radius: 100px;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: white;
+    color:rgb(189, 18, 18);
+    border: 1px solid rgb(189, 18, 18);
+    transition: 1s ease-out ;
+
+}
+.an{
+    color: rgb(0, 255, 255);
+}
+.an:hover{
+    color: rgb(51, 161, 161);
+}
